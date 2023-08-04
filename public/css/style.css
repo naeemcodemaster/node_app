@@ -1,0 +1,22 @@
+body{
+    background-color: #f2f2f2;
+}
+.main{
+    background-color: #dc136d;
+    
+}
+.hero_section{
+    width: 100%;
+    height: 1000px;
+    background-color: orangered;
+}
+.data_container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    min-height: 200px;
+    grid-gap: 10px;
+    
+}
+.data{
+    background-color: orange;
+}
